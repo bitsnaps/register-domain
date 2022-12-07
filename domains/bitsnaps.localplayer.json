@@ -1,0 +1,19 @@
+{
+  "$schema": "../schemas/domain.schema.json",
+
+  "description": "Project Description",
+
+  "domain": "is-not-a.dev",
+  "subdomain": "bitsnaps",
+
+  "owner": {
+    "repo": "https://github.com/username/repo",
+    "email": "bitsnaps@yahoo.com"
+  },
+
+  "record": {
+    "CNAME": "bitsnaps.nft."
+  },
+
+  "proxy": false
+}
